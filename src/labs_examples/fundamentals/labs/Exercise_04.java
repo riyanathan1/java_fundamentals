@@ -39,11 +39,13 @@ public class Exercise_04 {
         float f;
         f = -34.98f;
         System.out.println(f);
-        
-        char letter;
-        letter = 'r';
-        System.out.println("r");
-        
+
+
+        char r;
+        r = '9';
+        System.out.println(r);
+        System.out.println(Character.hashCode(r));
+
 
 
 

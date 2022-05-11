@@ -23,9 +23,21 @@ public class Exercise_05 {
 
 
         // please concatenate str & str2 and set the result to a new String variable below
+String result = str + str2 + "cat";
 
         // please demonstrate the use of any other method that is available to us in the String class
         // for example, replace(), substring(), contains(), indexOf() etc
+        result.contains("bus");
+        System.out.println(result.contains("bus"));
+
+        System.out.println(result.replace("hello!hello","dog"));
+
+        System.out.println(result.substring(5));
+        System.out.println(result.substring(5,6));
+
+        System.out.println(result.indexOf("h"));
+        System.out.println(result.indexOf("h",1));
+
 
     }
 
