@@ -12,11 +12,44 @@ public class Exercise_04 {
 
     public static void main(String[] args) {
 
-        int i = 1;
-        System.out.println("int i is: " + i);
+        int i;
+        i = 2;
+        System.out.println(i);
 
-        // write your code below
+        boolean flag = false;
+        System.out.println(flag);
+
+        byte range;
+        range = 16;
+        System.out.println(range);
+
+        short temperature;
+        temperature = -1;
+        System.out.println(temperature);
+
+
+        long l;
+        l = -900000l;
+        System.out.println(l);
+
+        double d;
+        d = -20.19d;
+        System.out.println(d);
+
+        float f;
+        f = -34.98f;
+        System.out.println(f);
+        
+        char letter;
+        letter = 'r';
+        System.out.println("r");
+        
+
+
+
+
 
     }
 
 }
+

@@ -15,8 +15,12 @@ public class Exercise_05 {
         String str = "hello!";
         // please declare an int variable below, and set it to the value of the length of "str"
 
+    int length = "str".length();
+
         String str2 = "hello";
         // please initialize a boolean variable and test whether str is equal to str2
+         boolean equals = "hello".equals("hello!");
+
 
         // please concatenate str & str2 and set the result to a new String variable below
 
