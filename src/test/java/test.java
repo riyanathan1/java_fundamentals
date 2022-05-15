@@ -1,13 +1,9 @@
 package test.java;
 
+
+
 public class test {
-
-      public static void main(String[] args) {
-
-            System.out.println("Hello World!");
-
-            System.out.println("Check out my new first program");
-
+      public int multiply(int a, int b) {
+            return a *b;
       }
-
 }
