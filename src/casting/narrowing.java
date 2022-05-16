@@ -3,7 +3,6 @@ package casting;
 public class narrowing
 {
 
-
     public static void main(String[] args)
     {
         double x = 40;
