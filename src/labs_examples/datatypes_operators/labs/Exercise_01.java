@@ -16,7 +16,25 @@ public class Exercise_01 {
 
     public static void main(String[] args) {
 
-        // write code here
+int temperature;
+temperature = 9;
+System.out.println(temperature);
+
+double price;
+price = 3.55;
+System.out.println(3.55);
+
+float height;
+height = 7.89f;
+System.out.println(7.89);
+
+char a ;
+a = 9;
+System.out.println("a");
+
+
+
+
 
     }
 }
