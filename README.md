@@ -41,7 +41,7 @@ package casting;
 
 public class castingprimitivetypes {
 
-copy and paste thid 
+copy and paste rx
     public static void main(String[] args) {
 
         // please demonstrate converting an int to a double below  - example - why don't we need to cast the int to a double?
