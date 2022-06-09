@@ -8,4 +8,17 @@ package labs_examples.conditions_loops.labs;
  */
 
 public class Exercise_06 {
+    public static void main(String[] args) {
+
+        int number = 100,
+                i = 1,
+                sum = 0;
+
+        while (i <= number) {
+            sum = sum + i;
+            i++;
+        }
+
+        System.out.println("Sum of First 100  Numbers is = " + sum);
+    }
 }
