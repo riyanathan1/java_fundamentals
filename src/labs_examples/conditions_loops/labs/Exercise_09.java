@@ -7,5 +7,16 @@ package labs_examples.conditions_loops.labs;
  *
  */
 
-public class Exercise_09 {
+public class Exercise_09 {   public static void main(String args[])
+{
+
+    for (int i = 0; i < 10; i++) {
+        if (i == 6)
+            break;
+
+        System.out.println("i: " + i);
+    }
+    System.out.println("Loop complete.");
 }
+}
+
